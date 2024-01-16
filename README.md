@@ -6,4 +6,9 @@
 python ac.py
 ```
 
-time_limit, env_name, env_stepsなどは直接コードを書き替えて変更
+環境ごとにtime_limit, env_name, env_stepsなどは直接コードを書き替える
+
+C-RWAREは
+```
+git clone -b color "RWAREのhttp:~"
+```
